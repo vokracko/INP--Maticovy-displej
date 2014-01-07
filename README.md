@@ -1,8 +1,6 @@
-# INP1 - Maticový displej
+INP: Maticový displej
+==============
+Projekt do předmětu Návrh počítačových systémů (3. semestr FIT VUT) ve stavu, v jakém byl odevzdán k hodnocení.
 
-Projekty jsou zde v takovém stavu, ve kterém jsem je odevzdával k hodnocení.
-
-## Hodnocení
-
+### Hodnocení
 13/13
-
